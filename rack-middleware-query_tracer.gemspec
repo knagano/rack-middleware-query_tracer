@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["knagano@CPAN.org"]
   spec.summary       = %q{Dumps SQL queries with their positions in the source code}
   spec.description   = %q{Dumps SQL queries with their positions in the source code}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/knagano/rack-middleware-query_tracer"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
